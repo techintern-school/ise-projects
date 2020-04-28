@@ -1,3 +1,5 @@
+const utils = require('../../utils.js');
+
 const http = require('https')
 const args = process.argv.slice(2);
 const githubID = args[0];
@@ -19,16 +21,9 @@ http.get(getOptions, function(res){
 
     res.on('end', function(){
         const starredRepos = JSON.parse(body);
-        const hasStarred = starredRepos.map(repo => repo.full_name).indexOf('techintern-school/learn-app' > -1);
-        if (hasStarred) {
-            console.log('sucessfully completed challenge')
-            process.exit(0)
-        } else {
-            console.log(`github user ${githubID} has not starred the learn-app`)
-            process.exit(1);
-        }
-        
-        
+        const hasStarred = starredRepos.map(repo => repo.full_name).includes('techintern-school/learn-app');
+        let result = hasStarred ? `confirmed repo starred by github user ${githubID}` : `github user ${githubID} has not starred the learn-app`;
+        utils.endChallengeEvaluation(hasStarred, result)
     });
 }).on('error', function(e){
       console.log("Got an error: ", e);
