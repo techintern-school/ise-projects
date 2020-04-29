@@ -1,0 +1,22 @@
+{
+  "name": "ise-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techintern-school/ise-projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techintern-school/ise-projects/issues"
+  },
+  "homepage": "https://github.com/techintern-school/ise-projects#readme",
+  "dependencies": {
+    "csv-write-stream": "^2.0.0"
+  }
+}
