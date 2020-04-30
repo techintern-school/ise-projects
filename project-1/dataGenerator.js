@@ -1,5 +1,6 @@
 const csvWriter = require("csv-write-stream");
 const fs = require("fs");
+const shortid = require("shortid");
 
 mockData = {
   brands: ["nike", "Nike", "Adidas", "Puma", "Under Armour", "New Balance"],
@@ -93,19 +94,21 @@ function getRandomPrice() {
   return `$${getRandomValue(100)}.${getRandomValue(100)}`;
 }
 
-const maxProducts = 1000;
 const maxQuantity = 500;
 let writer = csvWriter();
-writer.pipe(fs.createWriteStream("project-1/product_catalog.csv"));
-for (i = 0; i < maxProducts; i++) {
-  const price = getRandomPrice();
-  writer.write({
-    name: randomArrayVal(mockData.names),
-    brand: randomArrayVal(mockData.brands),
-    retail_price: price,
-    current_price: price,
-    quantity: getRandomValue(maxQuantity),
+writer.pipe(fs.createWriteStream("./product_catalog.csv"));
+// iterate over the iterables
+mockData.names.forEach(function (name) {
+  mockData.brands.forEach(function (brand) {
+    const price = getRandomPrice();
+    writer.write({
+      name,
+      brand,
+      sku: shortid.generate(),
+      retail_price: price,
+      current_price: price,
+      quantity: getRandomValue(maxQuantity),
+    });
   });
-}
-
+});
 writer.end();

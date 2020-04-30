@@ -1,1001 +1,439 @@
-name,brand,retail_price,current_price,quantity
-pointe shoes,New Balance,$47.91,$47.91,493
-Wellington boots,Nike,$12.21,$12.21,118
-athletic shoes,Nike,$31.57,$31.57,31
-platform shoes,Adidas,$48.22,$48.22,174
-heels,Puma,$30.15,$30.15,324
-zoris,nike,$9.8,$9.8,494
-high-top sneakers,Adidas,$9.33,$9.33,76
-loafers,Nike,$98.24,$98.24,164
-sling-backs,New Balance,$59.75,$59.75,483
-tennis shoes,Adidas,$19.49,$19.49,111
-sandals,nike,$35.0,$35.0,473
-ice skates,Adidas,$96.89,$96.89,67
-open-toe shoes,Puma,$3.39,$3.39,225
-cowboy boots,nike,$19.1,$19.1,55
-zoris,Puma,$69.10,$69.10,180
-jackboots,New Balance,$44.69,$44.69,442
-athletic shoes,New Balance,$46.21,$46.21,141
-climbing shoes,Nike,$88.9,$88.9,21
-ballet shoes,Nike,$80.95,$80.95,307
-sandals,nike,$8.70,$8.70,103
-loafers,nike,$90.64,$90.64,226
-jump boots,Under Armour,$8.90,$8.90,232
-track shoes,Puma,$59.95,$59.95,169
-skates,Nike,$58.28,$58.28,408
-kamiks,Nike,$58.32,$58.32,374
-kamiks,Nike,$26.32,$26.32,205
-inline skates,Under Armour,$23.54,$23.54,395
-clogs,New Balance,$48.31,$48.31,87
-bowling shoes,Puma,$49.90,$49.90,430
-valenki,Nike,$27.10,$27.10,382
-cleats,Under Armour,$20.92,$20.92,7
-clogs,New Balance,$35.42,$35.42,350
-cycling shoes,Adidas,$35.5,$35.5,29
-galoshes,Adidas,$68.23,$68.23,134
-hiking boots,Under Armour,$0.40,$0.40,60
-zoris,Nike,$4.68,$4.68,259
-saddle shoes,Puma,$80.22,$80.22,471
-golf shoes,Under Armour,$74.98,$74.98,409
-slippers,Adidas,$84.98,$84.98,226
-high heels,nike,$24.34,$24.34,355
-riding boots,Nike,$71.87,$71.87,408
-skates,nike,$82.9,$82.9,19
-skate shoes,Nike,$23.42,$23.42,211
-slides,Adidas,$14.90,$14.90,106
-Wellington boots,Adidas,$63.57,$63.57,145
-brogues,Puma,$10.38,$10.38,190
-athletic shoes,Puma,$78.37,$78.37,389
-track shoes,Puma,$27.20,$27.20,255
-wingtip shoes,nike,$6.28,$6.28,2
-figure skates,Puma,$14.2,$14.2,439
-slides,nike,$3.93,$3.93,22
-saddle shoes,New Balance,$0.21,$0.21,399
-slides,Nike,$54.71,$54.71,313
-elevator shoes,nike,$33.10,$33.10,252
-Oxfords,New Balance,$10.22,$10.22,64
-swim fins,Adidas,$77.99,$77.99,385
-moccasins,Under Armour,$80.31,$80.31,432
-riding boots,New Balance,$22.37,$22.37,188
-cowboy boots,New Balance,$40.54,$40.54,213
-beach shoes,Puma,$41.67,$41.67,242
-mukluks,Adidas,$13.46,$13.46,178
-pointe shoes,nike,$59.5,$59.5,342
-skate shoes,Nike,$28.26,$28.26,126
-skates,Puma,$92.20,$92.20,340
-work boots,Under Armour,$77.94,$77.94,450
-ice skates,Puma,$43.22,$43.22,40
-golf shoes,Nike,$54.19,$54.19,147
-court shoes,Nike,$99.19,$99.19,290
-ice skates,Adidas,$77.37,$77.37,84
-waders,Nike,$39.61,$39.61,354
-rain boots,New Balance,$30.27,$30.27,162
-court shoes,Puma,$0.19,$0.19,109
-bowling shoes,Nike,$93.2,$93.2,455
-slippers,Nike,$13.3,$13.3,153
-stiletto heels,Puma,$73.71,$73.71,371
-zoris,New Balance,$43.28,$43.28,470
-penny loafers,nike,$93.47,$93.47,470
-flip-flops,Puma,$37.39,$37.39,259
-climbing shoes,Nike,$29.73,$29.73,106
-golf shoes,Under Armour,$58.34,$58.34,21
-gumboots,Puma,$24.62,$24.62,286
-Oxfords,nike,$40.43,$40.43,50
-penny loafers,Puma,$47.61,$47.61,327
-heels,nike,$76.37,$76.37,465
-figure skates,New Balance,$70.50,$70.50,489
-tap shoes,Nike,$77.74,$77.74,331
-moccasins,Nike,$64.16,$64.16,345
-bowling shoes,Puma,$38.32,$38.32,334
-ice skates,Adidas,$63.28,$63.28,431
-hiking boots,nike,$58.53,$58.53,245
-deck shoes,New Balance,$66.42,$66.42,283
-clogs,Nike,$29.38,$29.38,130
-flip-flops,Under Armour,$36.92,$36.92,178
-climbing shoes,Under Armour,$31.25,$31.25,218
-ankle boot,Adidas,$19.0,$19.0,15
-clogs,Puma,$61.54,$61.54,391
-valenki,New Balance,$93.66,$93.66,291
-skates,nike,$29.80,$29.80,152
-tennis shoes,Adidas,$5.81,$5.81,39
-pumps,New Balance,$3.47,$3.47,323
-loafers,Under Armour,$35.55,$35.55,283
-wedge shoes,Puma,$34.53,$34.53,145
-mukluks,Adidas,$71.88,$71.88,267
-waders,Under Armour,$11.96,$11.96,196
-loafers,nike,$53.27,$53.27,50
-heels,New Balance,$24.42,$24.42,167
-sandals,nike,$78.82,$78.82,433
-skates,Puma,$38.38,$38.38,254
-running shoes,nike,$68.95,$68.95,202
-ballet shoes,Puma,$66.47,$66.47,230
-Oxfords,New Balance,$68.52,$68.52,371
-flip-flops,New Balance,$26.78,$26.78,449
-platform shoes,nike,$81.54,$81.54,334
-pointe shoes,Adidas,$14.75,$14.75,227
-open-toe shoes,nike,$90.71,$90.71,115
-riding boots,Under Armour,$22.67,$22.67,102
-flip-flops,Adidas,$26.5,$26.5,324
-mules,Puma,$37.10,$37.10,164
-roller skates,Nike,$0.59,$0.59,276
-golf shoes,Nike,$96.14,$96.14,428
-inline skates,Under Armour,$86.1,$86.1,127
-ankle boot,nike,$90.91,$90.91,212
-army boots,Nike,$39.35,$39.35,79
-open-toe shoes,nike,$23.49,$23.49,363
-gumboots,Puma,$7.98,$7.98,354
-sandals,Adidas,$38.2,$38.2,341
-track shoes,Under Armour,$86.59,$86.59,346
-toe shoes,New Balance,$31.73,$31.73,32
-pointe shoes,nike,$89.45,$89.45,446
-deck shoes,Nike,$62.32,$62.32,279
-sandals,New Balance,$97.19,$97.19,75
-ballet shoes,Nike,$2.90,$2.90,266
-Oxfords,Adidas,$27.12,$27.12,58
-rollerblades,Puma,$22.13,$22.13,236
-cowboy boots,Nike,$9.27,$9.27,194
-clogs,Under Armour,$8.11,$8.11,51
-tennis shoes,New Balance,$29.98,$29.98,281
-open-toe shoes,nike,$54.89,$54.89,405
-pumps,New Balance,$77.5,$77.5,471
-elevator shoes,Adidas,$36.91,$36.91,338
-heels,Under Armour,$34.81,$34.81,122
-slippers,Puma,$12.61,$12.61,12
-inline skates,New Balance,$81.3,$81.3,266
-court shoes,Adidas,$69.49,$69.49,291
-Wellington boots,Adidas,$64.67,$64.67,486
-slides,Puma,$97.28,$97.28,111
-swim fins,nike,$27.93,$27.93,181
-waders,Adidas,$36.3,$36.3,232
-boat shoes,Under Armour,$85.29,$85.29,359
-valenki,Adidas,$51.40,$51.40,27
-roller skates,Under Armour,$33.55,$33.55,265
-dress shoes,Puma,$27.8,$27.8,281
-jump boots,Nike,$75.27,$75.27,268
-work boots,New Balance,$53.45,$53.45,477
-platform shoes,Under Armour,$30.30,$30.30,273
-work boots,nike,$29.31,$29.31,239
-flip-flops,New Balance,$52.71,$52.71,417
-valenki,Under Armour,$53.91,$53.91,439
-steel-toe boots,Adidas,$8.59,$8.59,370
-espadrilles,New Balance,$95.83,$95.83,52
-cleats,nike,$62.35,$62.35,101
-shoes,Nike,$62.71,$62.71,92
-loafers,New Balance,$52.67,$52.67,329
-work boots,Nike,$44.56,$44.56,470
-Oxfords,Under Armour,$30.98,$30.98,221
-jump boots,Puma,$56.63,$56.63,216
-ballet shoes,New Balance,$28.55,$28.55,187
-bowling shoes,Puma,$77.81,$77.81,383
-dress shoes,Nike,$59.36,$59.36,14
-ski boots,Under Armour,$70.47,$70.47,324
-shoes,Adidas,$23.53,$23.53,466
-sneakers,Nike,$29.65,$29.65,284
-figure skates,Puma,$21.9,$21.9,185
-climbing shoes,nike,$0.60,$0.60,53
-mules,Adidas,$89.67,$89.67,433
-pumps,Under Armour,$44.98,$44.98,285
-sneakers,Under Armour,$96.69,$96.69,340
-boat shoes,Under Armour,$43.6,$43.6,324
-saddle shoes,Under Armour,$68.5,$68.5,127
-slides,New Balance,$69.14,$69.14,170
-heels,Nike,$14.4,$14.4,81
-ballet shoes,nike,$20.29,$20.29,408
-army boots,Nike,$85.29,$85.29,100
-boots,Puma,$45.60,$45.60,348
-skates,Under Armour,$93.1,$93.1,6
-skate shoes,Nike,$65.81,$65.81,113
-track shoes,New Balance,$77.84,$77.84,257
-clogs,Under Armour,$44.66,$44.66,222
-sandals,New Balance,$74.19,$74.19,343
-wingtip shoes,Under Armour,$24.14,$24.14,288
-cleats,Adidas,$16.29,$16.29,310
-toe shoes,Under Armour,$89.44,$89.44,102
-ice skates,Adidas,$26.13,$26.13,78
-toe shoes,Adidas,$70.57,$70.57,159
-zoris,Under Armour,$22.24,$22.24,426
-rain boots,Under Armour,$49.87,$49.87,242
-elevator shoes,Under Armour,$34.70,$34.70,215
-rollerblades,Under Armour,$75.83,$75.83,130
-platform shoes,Under Armour,$19.47,$19.47,90
-Mary Janes,Puma,$92.93,$92.93,436
-platform shoes,Adidas,$74.46,$74.46,19
-ballet shoes,nike,$91.56,$91.56,498
-zoris,Nike,$82.9,$82.9,48
-high-top sneakers,Puma,$3.4,$3.4,358
-mukluks,Puma,$55.19,$55.19,79
-cycling shoes,Nike,$0.36,$0.36,310
-sneakers,New Balance,$19.58,$19.58,140
-steel-toe boots,Nike,$14.12,$14.12,324
-high heels,Nike,$55.99,$55.99,69
-court shoes,New Balance,$16.8,$16.8,46
-wingtip shoes,Nike,$65.41,$65.41,209
-running shoes,Adidas,$42.19,$42.19,476
-gumboots,Adidas,$87.4,$87.4,382
-sneakers,New Balance,$41.35,$41.35,119
-brogues,nike,$36.14,$36.14,338
-platform shoes,Under Armour,$86.37,$86.37,197
-high-top sneakers,New Balance,$76.89,$76.89,392
-kamiks,Adidas,$97.71,$97.71,324
-boots,Under Armour,$16.12,$16.12,199
-stiletto heels,New Balance,$5.71,$5.71,207
-ankle boot,nike,$51.31,$51.31,201
-figure skates,Under Armour,$52.44,$52.44,326
-inline skates,Under Armour,$88.73,$88.73,294
-sandals,New Balance,$12.9,$12.9,11
-ice skates,New Balance,$35.94,$35.94,440
-pumps,New Balance,$33.47,$33.47,273
-toe shoes,Nike,$76.58,$76.58,384
-skates,Nike,$60.32,$60.32,244
-zoris,Nike,$99.98,$99.98,339
-climbing shoes,Under Armour,$95.81,$95.81,440
-roller skates,Puma,$4.23,$4.23,370
-wingtip shoes,Adidas,$79.57,$79.57,140
-jackboots,Nike,$20.89,$20.89,19
-wedge shoes,Adidas,$70.37,$70.37,250
-pointe shoes,Nike,$46.64,$46.64,200
-sandals,New Balance,$56.46,$56.46,442
-elevator shoes,Puma,$41.86,$41.86,124
-ankle boot,Adidas,$42.20,$42.20,106
-roller skates,Nike,$94.70,$94.70,338
-dress shoes,New Balance,$9.24,$9.24,423
-Oxfords,New Balance,$75.96,$75.96,171
-roller skates,Adidas,$1.85,$1.85,75
-kamiks,nike,$68.14,$68.14,210
-toe shoes,Puma,$68.61,$68.61,217
-open-toe shoes,nike,$58.49,$58.49,133
-cycling shoes,nike,$7.29,$7.29,212
-boat shoes,Adidas,$21.89,$21.89,444
-loafers,nike,$8.13,$8.13,174
-rollerblades,Adidas,$85.30,$85.30,360
-wedge shoes,Adidas,$64.83,$64.83,194
-ski boots,Nike,$39.7,$39.7,208
-boots,Adidas,$95.97,$95.97,417
-brogues,Puma,$24.63,$24.63,10
-waders,New Balance,$31.29,$31.29,184
-cowboy boots,Adidas,$94.14,$94.14,381
-rollerblades,nike,$10.47,$10.47,326
-ballet shoes,nike,$80.41,$80.41,430
-steel-toe boots,New Balance,$70.97,$70.97,452
-Wellington boots,Nike,$69.89,$69.89,339
-golf shoes,Adidas,$30.75,$30.75,266
-golf shoes,nike,$94.62,$94.62,468
-athletic shoes,New Balance,$69.35,$69.35,103
-heels,New Balance,$86.84,$86.84,411
-toe shoes,Nike,$31.40,$31.40,472
-penny loafers,Nike,$14.10,$14.10,208
-elevator shoes,Under Armour,$57.10,$57.10,83
-sandals,Adidas,$19.21,$19.21,220
-riding boots,Adidas,$85.41,$85.41,154
-skate shoes,Under Armour,$8.34,$8.34,159
-high heels,nike,$24.22,$24.22,283
-riding boots,nike,$79.19,$79.19,304
-high-top sneakers,Nike,$75.38,$75.38,178
-platform shoes,nike,$10.67,$10.67,102
-deck shoes,New Balance,$86.45,$86.45,68
-steel-toe boots,New Balance,$81.11,$81.11,313
-jackboots,New Balance,$75.76,$75.76,105
-cowboy boots,Under Armour,$34.68,$34.68,18
-tap shoes,Adidas,$18.8,$18.8,445
-skates,nike,$18.86,$18.86,412
-toe shoes,New Balance,$66.38,$66.38,188
-track shoes,nike,$55.75,$55.75,400
-wedge shoes,Nike,$79.33,$79.33,321
-rollerblades,Puma,$59.67,$59.67,221
-ski boots,Adidas,$81.84,$81.84,443
-high-top sneakers,New Balance,$89.99,$89.99,469
-ice skates,Under Armour,$2.52,$2.52,313
-sandals,Adidas,$76.1,$76.1,424
-wingtip shoes,Adidas,$75.33,$75.33,126
-wingtip shoes,Adidas,$6.57,$6.57,132
-boat shoes,Adidas,$71.19,$71.19,426
-steel-toe boots,Adidas,$32.13,$32.13,378
-sandals,Adidas,$42.21,$42.21,256
-boat shoes,Under Armour,$4.46,$4.46,12
-work boots,Nike,$51.78,$51.78,246
-skates,Puma,$81.31,$81.31,108
-ice skates,New Balance,$14.29,$14.29,369
-deck shoes,New Balance,$32.73,$32.73,261
-ballet shoes,New Balance,$82.88,$82.88,32
-climbing shoes,Nike,$24.28,$24.28,330
-loafers,nike,$24.23,$24.23,328
-ice skates,New Balance,$9.15,$9.15,156
-Wellington boots,nike,$80.57,$80.57,315
-tap shoes,New Balance,$17.46,$17.46,296
-slides,New Balance,$88.3,$88.3,22
-valenki,Nike,$17.12,$17.12,438
-boat shoes,nike,$28.15,$28.15,442
-Mary Janes,nike,$83.27,$83.27,347
-sandals,New Balance,$23.54,$23.54,77
-open-toe shoes,Adidas,$61.59,$61.59,254
-running shoes,Under Armour,$99.95,$99.95,176
-waders,nike,$11.58,$11.58,127
-boots,Adidas,$60.1,$60.1,147
-track shoes,Nike,$50.10,$50.10,51
-sling-backs,Puma,$45.11,$45.11,463
-cowboy boots,nike,$79.45,$79.45,65
-wingtip shoes,Under Armour,$95.75,$95.75,272
-kamiks,Under Armour,$33.55,$33.55,263
-boat shoes,Puma,$39.38,$39.38,211
-slides,Adidas,$59.58,$59.58,32
-ankle boot,Under Armour,$1.21,$1.21,188
-slides,Adidas,$55.69,$55.69,173
-sling-backs,Puma,$49.24,$49.24,100
-boots,Puma,$73.29,$73.29,379
-bowling shoes,Nike,$27.55,$27.55,112
-jump boots,Nike,$63.95,$63.95,413
-gumboots,Under Armour,$17.87,$17.87,385
-climbing shoes,Nike,$43.84,$43.84,233
-pointe shoes,Nike,$27.72,$27.72,497
-riding boots,nike,$35.40,$35.40,139
-flip-flops,Nike,$38.20,$38.20,132
-slippers,New Balance,$97.29,$97.29,63
-army boots,nike,$89.47,$89.47,41
-toe shoes,Under Armour,$30.15,$30.15,122
-stiletto heels,Puma,$0.96,$0.96,441
-moccasins,nike,$66.21,$66.21,90
-rain boots,Puma,$68.4,$68.4,486
-Wellington boots,New Balance,$72.2,$72.2,15
-loafers,Under Armour,$57.60,$57.60,174
-steel-toe boots,Nike,$89.67,$89.67,215
-tap shoes,Adidas,$20.75,$20.75,441
-mules,Puma,$67.90,$67.90,137
-cycling shoes,Nike,$42.56,$42.56,136
-elevator shoes,Adidas,$48.63,$48.63,331
-inline skates,nike,$94.63,$94.63,245
-skate shoes,Adidas,$31.50,$31.50,148
-climbing shoes,New Balance,$26.5,$26.5,404
-high heels,Nike,$22.85,$22.85,218
-wedge shoes,Nike,$22.85,$22.85,326
-army boots,Nike,$57.2,$57.2,473
-mukluks,Puma,$45.17,$45.17,287
-zoris,Nike,$39.62,$39.62,123
-Oxfords,New Balance,$64.94,$64.94,101
-climbing shoes,nike,$6.10,$6.10,247
-wingtip shoes,Nike,$69.42,$69.42,443
-toe shoes,Under Armour,$54.76,$54.76,362
-elevator shoes,Puma,$81.41,$81.41,391
-flip-flops,Adidas,$13.27,$13.27,9
-Oxfords,New Balance,$44.92,$44.92,37
-Mary Janes,New Balance,$15.12,$15.12,451
-mukluks,Under Armour,$54.91,$54.91,91
-work boots,Nike,$54.77,$54.77,78
-elevator shoes,New Balance,$63.22,$63.22,112
-ski boots,Nike,$88.26,$88.26,449
-ballet shoes,nike,$69.80,$69.80,447
-ski boots,nike,$67.63,$67.63,406
-moccasins,Nike,$87.42,$87.42,126
-galoshes,Under Armour,$17.4,$17.4,169
-sandals,Adidas,$53.66,$53.66,426
-boots,Nike,$6.61,$6.61,402
-galoshes,New Balance,$16.18,$16.18,338
-skates,Nike,$53.63,$53.63,30
-waders,Nike,$16.46,$16.46,139
-skate shoes,nike,$7.56,$7.56,79
-rollerblades,New Balance,$96.97,$96.97,156
-brogues,Adidas,$6.0,$6.0,387
-sling-backs,Nike,$37.33,$37.33,325
-tap shoes,Under Armour,$5.88,$5.88,490
-running shoes,nike,$31.0,$31.0,90
-climbing shoes,nike,$63.55,$63.55,413
-sandals,Under Armour,$51.29,$51.29,122
-platform shoes,nike,$84.88,$84.88,481
-pointe shoes,Nike,$70.98,$70.98,319
-boat shoes,Under Armour,$15.32,$15.32,451
-boots,New Balance,$79.40,$79.40,428
-deck shoes,Puma,$10.34,$10.34,177
-rain boots,Adidas,$64.95,$64.95,267
-clogs,Puma,$13.99,$13.99,196
-clogs,Nike,$28.68,$28.68,392
-slides,Puma,$59.26,$59.26,34
-boat shoes,Puma,$95.52,$95.52,303
-wingtip shoes,Adidas,$57.0,$57.0,416
-skates,New Balance,$37.55,$37.55,190
-high heels,Adidas,$92.82,$92.82,400
-shoes,Nike,$56.74,$56.74,209
-track shoes,Adidas,$55.20,$55.20,123
-cowboy boots,Nike,$10.97,$10.97,197
-skates,nike,$22.24,$22.24,81
-beach shoes,Under Armour,$33.90,$33.90,233
-rain boots,Nike,$75.44,$75.44,92
-riding boots,Under Armour,$84.37,$84.37,137
-work boots,Under Armour,$61.15,$61.15,311
-inline skates,nike,$48.33,$48.33,372
-beach shoes,Adidas,$3.95,$3.95,252
-high-top sneakers,Under Armour,$89.84,$89.84,126
-mukluks,New Balance,$26.42,$26.42,20
-bowling shoes,Under Armour,$64.89,$64.89,313
-platform shoes,Nike,$14.88,$14.88,36
-mules,nike,$69.87,$69.87,6
-mukluks,nike,$14.87,$14.87,347
-loafers,nike,$36.67,$36.67,128
-mukluks,Puma,$87.7,$87.7,290
-riding boots,New Balance,$3.53,$3.53,288
-clogs,Under Armour,$77.22,$77.22,340
-deck shoes,New Balance,$79.82,$79.82,13
-galoshes,nike,$32.48,$32.48,228
-wingtip shoes,nike,$7.77,$7.77,46
-riding boots,Puma,$47.33,$47.33,284
-tennis shoes,Puma,$82.7,$82.7,61
-hiking boots,New Balance,$48.83,$48.83,367
-sneakers,Puma,$5.94,$5.94,190
-Oxfords,Adidas,$15.32,$15.32,259
-kamiks,Nike,$0.86,$0.86,444
-rain boots,Under Armour,$44.39,$44.39,49
-Oxfords,Under Armour,$68.94,$68.94,367
-cowboy boots,Puma,$88.2,$88.2,496
-deck shoes,nike,$3.29,$3.29,478
-pointe shoes,Adidas,$49.67,$49.67,257
-skates,Adidas,$95.45,$95.45,353
-elevator shoes,Nike,$69.1,$69.1,368
-toe shoes,Puma,$98.13,$98.13,419
-galoshes,Nike,$78.92,$78.92,130
-tennis shoes,Adidas,$61.2,$61.2,132
-running shoes,Adidas,$18.27,$18.27,303
-Wellington boots,Under Armour,$54.91,$54.91,314
-espadrilles,nike,$33.39,$33.39,20
-high-top sneakers,Puma,$69.45,$69.45,368
-high heels,New Balance,$14.52,$14.52,264
-mukluks,nike,$60.12,$60.12,335
-espadrilles,Adidas,$97.23,$97.23,82
-ski boots,nike,$12.45,$12.45,310
-Oxfords,New Balance,$78.88,$78.88,334
-toe shoes,New Balance,$19.38,$19.38,495
-kamiks,Under Armour,$53.41,$53.41,240
-climbing shoes,Adidas,$40.19,$40.19,249
-mules,New Balance,$82.33,$82.33,17
-ballet shoes,Nike,$16.86,$16.86,70
-loafers,Nike,$41.9,$41.9,35
-steel-toe boots,Under Armour,$11.99,$11.99,258
-track shoes,Under Armour,$73.14,$73.14,92
-inline skates,Adidas,$84.3,$84.3,88
-wedge shoes,Under Armour,$16.81,$16.81,34
-cleats,nike,$36.76,$36.76,380
-pointe shoes,Under Armour,$7.77,$7.77,356
-boat shoes,Nike,$91.89,$91.89,387
-army boots,Under Armour,$53.16,$53.16,42
-swim fins,Under Armour,$2.97,$2.97,465
-tennis shoes,nike,$5.97,$5.97,26
-mules,Under Armour,$13.54,$13.54,363
-swim fins,Puma,$93.83,$93.83,176
-flip-flops,Under Armour,$1.41,$1.41,455
-stiletto heels,Under Armour,$24.2,$24.2,239
-Mary Janes,Under Armour,$87.89,$87.89,49
-riding boots,Under Armour,$44.0,$44.0,115
-jump boots,Nike,$98.85,$98.85,422
-flip-flops,Under Armour,$10.48,$10.48,425
-steel-toe boots,Puma,$85.44,$85.44,35
-pumps,Adidas,$8.84,$8.84,440
-beach shoes,Puma,$52.16,$52.16,47
-running shoes,Under Armour,$26.22,$26.22,330
-tap shoes,New Balance,$4.16,$4.16,101
-stiletto heels,Nike,$61.78,$61.78,55
-ballet shoes,Puma,$95.32,$95.32,19
-moccasins,Adidas,$4.39,$4.39,6
-athletic shoes,Under Armour,$87.47,$87.47,229
-kamiks,New Balance,$81.85,$81.85,148
-heels,Under Armour,$50.77,$50.77,347
-slippers,Puma,$7.40,$7.40,27
-mules,Puma,$48.45,$48.45,365
-Oxfords,Nike,$51.42,$51.42,322
-work boots,New Balance,$65.79,$65.79,440
-climbing shoes,nike,$65.38,$65.38,307
-golf shoes,Adidas,$54.81,$54.81,7
-wedge shoes,Under Armour,$43.21,$43.21,97
-kamiks,Under Armour,$82.99,$82.99,386
-wedge shoes,Under Armour,$93.60,$93.60,295
-running shoes,Puma,$89.6,$89.6,206
-mules,Nike,$20.74,$20.74,387
-pumps,Adidas,$29.91,$29.91,419
-wedge shoes,Adidas,$57.91,$57.91,80
-climbing shoes,nike,$57.1,$57.1,358
-dress shoes,Puma,$11.15,$11.15,44
-slides,Nike,$91.95,$91.95,262
-brogues,Puma,$97.23,$97.23,298
-waders,Adidas,$18.64,$18.64,482
-sneakers,Adidas,$95.35,$95.35,162
-elevator shoes,Puma,$25.53,$25.53,452
-sling-backs,New Balance,$81.41,$81.41,179
-kamiks,Nike,$88.51,$88.51,208
-Wellington boots,Under Armour,$97.90,$97.90,224
-stiletto heels,Puma,$78.61,$78.61,442
-penny loafers,Under Armour,$15.56,$15.56,315
-boat shoes,New Balance,$0.76,$0.76,95
-climbing shoes,nike,$19.26,$19.26,334
-work boots,Puma,$80.70,$80.70,416
-jump boots,nike,$7.65,$7.65,269
-climbing shoes,Under Armour,$42.22,$42.22,284
-heels,Adidas,$59.62,$59.62,487
-galoshes,Under Armour,$8.64,$8.64,249
-skate shoes,Adidas,$81.67,$81.67,16
-work boots,Puma,$47.31,$47.31,380
-valenki,Under Armour,$53.0,$53.0,275
-bowling shoes,nike,$57.54,$57.54,13
-jackboots,Adidas,$72.61,$72.61,93
-saddle shoes,Under Armour,$72.41,$72.41,175
-ankle boot,nike,$70.28,$70.28,473
-zoris,nike,$82.17,$82.17,358
-slides,New Balance,$6.97,$6.97,426
-stiletto heels,Adidas,$80.42,$80.42,269
-toe shoes,nike,$70.28,$70.28,201
-boat shoes,Puma,$95.81,$95.81,336
-open-toe shoes,Nike,$68.28,$68.28,227
-ice skates,Nike,$8.1,$8.1,421
-pumps,New Balance,$71.42,$71.42,416
-sneakers,Adidas,$65.62,$65.62,129
-deck shoes,Under Armour,$11.51,$11.51,323
-wedge shoes,New Balance,$95.71,$95.71,95
-galoshes,nike,$4.11,$4.11,244
-ice skates,Nike,$14.95,$14.95,468
-court shoes,Adidas,$7.2,$7.2,261
-bowling shoes,Under Armour,$41.47,$41.47,463
-galoshes,nike,$44.73,$44.73,477
-running shoes,Under Armour,$29.84,$29.84,342
-open-toe shoes,Nike,$4.23,$4.23,207
-valenki,Nike,$48.74,$48.74,489
-wedge shoes,Puma,$16.33,$16.33,357
-tennis shoes,New Balance,$0.2,$0.2,256
-cleats,New Balance,$20.44,$20.44,175
-toe shoes,Puma,$21.42,$21.42,168
-cycling shoes,Adidas,$91.42,$91.42,149
-Mary Janes,Puma,$92.19,$92.19,115
-wedge shoes,Under Armour,$59.44,$59.44,93
-heels,nike,$94.27,$94.27,255
-waders,Puma,$88.45,$88.45,341
-moccasins,Nike,$91.34,$91.34,172
-sling-backs,Adidas,$39.18,$39.18,403
-riding boots,New Balance,$6.99,$6.99,183
-steel-toe boots,nike,$98.10,$98.10,281
-wedge shoes,Nike,$0.20,$0.20,298
-kamiks,New Balance,$60.20,$60.20,296
-open-toe shoes,Puma,$34.37,$34.37,411
-skate shoes,New Balance,$21.69,$21.69,42
-pointe shoes,Nike,$54.29,$54.29,373
-boots,Puma,$9.47,$9.47,275
-open-toe shoes,Adidas,$32.92,$32.92,213
-galoshes,Nike,$82.18,$82.18,60
-skates,Under Armour,$50.56,$50.56,363
-steel-toe boots,nike,$7.14,$7.14,264
-deck shoes,nike,$49.72,$49.72,433
-saddle shoes,Adidas,$5.34,$5.34,38
-cycling shoes,New Balance,$52.71,$52.71,452
-running shoes,New Balance,$44.29,$44.29,27
-mules,Under Armour,$78.55,$78.55,275
-toe shoes,Adidas,$63.40,$63.40,113
-track shoes,New Balance,$72.30,$72.30,80
-high-top sneakers,Under Armour,$9.99,$9.99,294
-pumps,Nike,$47.0,$47.0,413
-court shoes,New Balance,$95.77,$95.77,458
-moccasins,New Balance,$37.27,$37.27,352
-sneakers,Puma,$9.64,$9.64,199
-athletic shoes,Under Armour,$89.91,$89.91,404
-espadrilles,nike,$20.75,$20.75,404
-tennis shoes,nike,$45.18,$45.18,425
-mules,Nike,$83.24,$83.24,379
-wingtip shoes,Nike,$35.47,$35.47,37
-boat shoes,Puma,$30.57,$30.57,121
-ice skates,New Balance,$93.91,$93.91,49
-ankle boot,Nike,$63.13,$63.13,275
-galoshes,Adidas,$69.30,$69.30,188
-dress shoes,Under Armour,$68.63,$68.63,391
-skates,Adidas,$42.77,$42.77,462
-tap shoes,New Balance,$20.59,$20.59,144
-figure skates,nike,$83.92,$83.92,369
-pumps,nike,$96.57,$96.57,243
-army boots,Nike,$20.36,$20.36,31
-wedge shoes,Nike,$43.50,$43.50,383
-ankle boot,nike,$72.99,$72.99,25
-rollerblades,Under Armour,$22.83,$22.83,350
-stiletto heels,Adidas,$59.48,$59.48,250
-ballet shoes,Puma,$89.6,$89.6,172
-clogs,Puma,$17.47,$17.47,301
-golf shoes,Puma,$77.48,$77.48,364
-inline skates,Adidas,$46.7,$46.7,476
-slippers,Nike,$32.72,$32.72,413
-dress shoes,Under Armour,$9.67,$9.67,457
-sneakers,Nike,$78.71,$78.71,392
-golf shoes,Nike,$54.42,$54.42,87
-ski boots,Under Armour,$83.19,$83.19,142
-Oxfords,Under Armour,$37.59,$37.59,21
-saddle shoes,New Balance,$89.33,$89.33,423
-running shoes,New Balance,$64.73,$64.73,96
-tennis shoes,Adidas,$26.49,$26.49,90
-inline skates,New Balance,$52.37,$52.37,183
-hiking boots,Puma,$16.4,$16.4,327
-espadrilles,Adidas,$8.98,$8.98,199
-tap shoes,Puma,$52.56,$52.56,61
-track shoes,Nike,$13.16,$13.16,80
-steel-toe boots,Under Armour,$22.22,$22.22,231
-jump boots,Nike,$28.9,$28.9,385
-heels,Nike,$42.88,$42.88,423
-cycling shoes,Under Armour,$95.27,$95.27,46
-cowboy boots,Under Armour,$60.52,$60.52,218
-climbing shoes,Under Armour,$47.92,$47.92,455
-deck shoes,Under Armour,$70.12,$70.12,465
-figure skates,nike,$68.93,$68.93,310
-saddle shoes,Puma,$20.51,$20.51,480
-cycling shoes,Adidas,$35.49,$35.49,215
-figure skates,New Balance,$9.69,$9.69,298
-espadrilles,Adidas,$46.64,$46.64,476
-mules,nike,$84.13,$84.13,232
-stiletto heels,Adidas,$47.59,$47.59,138
-ballet shoes,Under Armour,$44.69,$44.69,43
-army boots,New Balance,$52.63,$52.63,442
-gumboots,Puma,$83.24,$83.24,340
-court shoes,Adidas,$13.33,$13.33,258
-saddle shoes,nike,$62.41,$62.41,198
-pointe shoes,Puma,$90.20,$90.20,224
-ankle boot,Puma,$52.34,$52.34,199
-jackboots,Adidas,$97.57,$97.57,499
-cowboy boots,Adidas,$74.73,$74.73,256
-swim fins,Puma,$4.89,$4.89,182
-mules,Nike,$72.34,$72.34,250
-steel-toe boots,Adidas,$34.75,$34.75,266
-flip-flops,nike,$15.86,$15.86,108
-valenki,Puma,$26.49,$26.49,453
-work boots,Under Armour,$99.21,$99.21,244
-penny loafers,nike,$11.40,$11.40,266
-sneakers,Nike,$79.7,$79.7,135
-Oxfords,Puma,$22.32,$22.32,150
-clogs,nike,$74.28,$74.28,425
-dress shoes,Under Armour,$61.49,$61.49,110
-brogues,Under Armour,$34.34,$34.34,134
-ballet shoes,nike,$53.6,$53.6,445
-zoris,Nike,$69.54,$69.54,390
-pointe shoes,nike,$65.33,$65.33,87
-jump boots,New Balance,$79.62,$79.62,320
-platform shoes,Nike,$5.91,$5.91,441
-deck shoes,nike,$91.85,$91.85,118
-army boots,nike,$3.7,$3.7,320
-track shoes,Adidas,$13.76,$13.76,72
-golf shoes,New Balance,$71.31,$71.31,470
-beach shoes,Nike,$48.56,$48.56,75
-zoris,nike,$51.6,$51.6,330
-running shoes,nike,$19.67,$19.67,112
-gumboots,New Balance,$99.22,$99.22,144
-steel-toe boots,Adidas,$79.62,$79.62,452
-elevator shoes,Under Armour,$1.84,$1.84,73
-army boots,Adidas,$38.13,$38.13,301
-steel-toe boots,Puma,$23.70,$23.70,154
-boots,Puma,$3.38,$3.38,302
-high heels,New Balance,$57.40,$57.40,205
-mukluks,Under Armour,$42.44,$42.44,229
-boots,New Balance,$80.76,$80.76,85
-dress shoes,nike,$51.60,$51.60,219
-pointe shoes,Under Armour,$4.78,$4.78,119
-army boots,Nike,$94.23,$94.23,198
-clogs,nike,$69.17,$69.17,167
-Mary Janes,nike,$37.31,$37.31,139
-shoes,Adidas,$48.89,$48.89,384
-ankle boot,New Balance,$0.44,$0.44,489
-court shoes,nike,$10.9,$10.9,115
-pointe shoes,Nike,$58.29,$58.29,155
-wedge shoes,Puma,$71.88,$71.88,332
-brogues,Puma,$47.36,$47.36,54
-pointe shoes,Under Armour,$94.92,$94.92,393
-ankle boot,New Balance,$62.93,$62.93,362
-flip-flops,Puma,$10.89,$10.89,385
-brogues,Adidas,$21.31,$21.31,95
-boat shoes,Nike,$86.41,$86.41,272
-track shoes,New Balance,$5.62,$5.62,266
-open-toe shoes,Puma,$95.99,$95.99,296
-espadrilles,Puma,$16.41,$16.41,101
-riding boots,New Balance,$6.90,$6.90,326
-jackboots,Nike,$90.11,$90.11,313
-ski boots,Under Armour,$72.83,$72.83,457
-skate shoes,Under Armour,$87.6,$87.6,162
-slippers,Adidas,$90.53,$90.53,401
-boots,Nike,$91.90,$91.90,391
-golf shoes,Nike,$7.16,$7.16,80
-Wellington boots,Adidas,$83.76,$83.76,24
-cycling shoes,nike,$98.69,$98.69,358
-bowling shoes,nike,$63.4,$63.4,278
-ice skates,Adidas,$26.18,$26.18,427
-mules,Adidas,$11.70,$11.70,479
-tennis shoes,nike,$30.91,$30.91,66
-inline skates,New Balance,$98.41,$98.41,420
-cycling shoes,Puma,$10.73,$10.73,1
-skate shoes,Adidas,$2.90,$2.90,284
-Mary Janes,Nike,$13.40,$13.40,256
-ankle boot,Adidas,$11.43,$11.43,308
-moccasins,New Balance,$17.27,$17.27,150
-espadrilles,New Balance,$1.57,$1.57,296
-tap shoes,New Balance,$78.47,$78.47,109
-track shoes,Adidas,$18.34,$18.34,387
-ski boots,Nike,$55.75,$55.75,67
-steel-toe boots,New Balance,$31.51,$31.51,300
-kamiks,New Balance,$97.14,$97.14,201
-jump boots,Puma,$40.22,$40.22,432
-figure skates,Nike,$54.95,$54.95,379
-cycling shoes,Under Armour,$38.3,$38.3,471
-tap shoes,Nike,$35.87,$35.87,402
-deck shoes,Nike,$33.59,$33.59,386
-inline skates,Nike,$62.46,$62.46,367
-toe shoes,Nike,$24.57,$24.57,378
-heels,Under Armour,$60.56,$60.56,427
-cycling shoes,Under Armour,$15.44,$15.44,13
-Mary Janes,Under Armour,$31.6,$31.6,69
-platform shoes,Puma,$93.91,$93.91,343
-running shoes,New Balance,$91.92,$91.92,107
-swim fins,New Balance,$82.12,$82.12,259
-slides,Nike,$73.44,$73.44,324
-espadrilles,Puma,$4.82,$4.82,72
-ski boots,New Balance,$17.6,$17.6,467
-shoes,Under Armour,$15.59,$15.59,24
-mukluks,New Balance,$94.2,$94.2,460
-jump boots,Under Armour,$48.50,$48.50,156
-pointe shoes,New Balance,$71.14,$71.14,442
-climbing shoes,Under Armour,$16.26,$16.26,131
-galoshes,Nike,$34.48,$34.48,463
-beach shoes,New Balance,$97.63,$97.63,211
-jump boots,Nike,$68.83,$68.83,323
-rain boots,Under Armour,$56.25,$56.25,405
-rollerblades,Nike,$44.79,$44.79,197
-toe shoes,Nike,$2.4,$2.4,89
-Wellington boots,Puma,$99.84,$99.84,351
-rollerblades,nike,$21.5,$21.5,218
-pointe shoes,Under Armour,$52.41,$52.41,316
-ballet shoes,Puma,$90.26,$90.26,53
-cycling shoes,Adidas,$21.70,$21.70,383
-toe shoes,Under Armour,$60.25,$60.25,183
-wingtip shoes,Adidas,$55.38,$55.38,160
-cowboy boots,Under Armour,$94.78,$94.78,287
-slides,Adidas,$91.17,$91.17,353
-ski boots,Nike,$0.47,$0.47,242
-valenki,New Balance,$1.91,$1.91,51
-shoes,Under Armour,$60.35,$60.35,395
-mules,Under Armour,$40.45,$40.45,246
-mules,Under Armour,$82.54,$82.54,225
-galoshes,Nike,$68.80,$68.80,442
-waders,Adidas,$61.26,$61.26,61
-cleats,nike,$17.26,$17.26,25
-high-top sneakers,New Balance,$61.14,$61.14,8
-figure skates,Nike,$70.68,$70.68,295
-mules,Nike,$49.91,$49.91,279
-cleats,Under Armour,$7.2,$7.2,445
-pumps,Adidas,$41.93,$41.93,20
-high heels,Puma,$36.36,$36.36,3
-sling-backs,New Balance,$68.94,$68.94,179
-elevator shoes,Under Armour,$68.93,$68.93,165
-pointe shoes,nike,$30.66,$30.66,30
-high heels,Under Armour,$36.22,$36.22,332
-high-top sneakers,Under Armour,$23.84,$23.84,330
-moccasins,New Balance,$70.93,$70.93,198
-flip-flops,Adidas,$64.54,$64.54,97
-mukluks,Puma,$95.68,$95.68,230
-golf shoes,Nike,$44.1,$44.1,183
-cowboy boots,Nike,$29.66,$29.66,499
-figure skates,Under Armour,$57.35,$57.35,177
-cowboy boots,Nike,$99.47,$99.47,320
-skate shoes,Nike,$87.76,$87.76,208
-figure skates,Nike,$2.8,$2.8,428
-work boots,Nike,$19.5,$19.5,244
-court shoes,Nike,$50.66,$50.66,431
-army boots,nike,$55.78,$55.78,248
-rollerblades,New Balance,$32.29,$32.29,49
-espadrilles,nike,$22.31,$22.31,348
-rollerblades,New Balance,$14.36,$14.36,407
-ice skates,nike,$82.49,$82.49,328
-sneakers,Puma,$27.82,$27.82,174
-pumps,Under Armour,$54.71,$54.71,253
-ballet shoes,Nike,$55.24,$55.24,419
-athletic shoes,Puma,$93.61,$93.61,14
-pumps,Adidas,$22.71,$22.71,437
-golf shoes,Nike,$70.58,$70.58,498
-court shoes,New Balance,$90.9,$90.9,179
-flip-flops,New Balance,$75.58,$75.58,90
-running shoes,Puma,$48.82,$48.82,135
-work boots,New Balance,$57.81,$57.81,235
-work boots,Under Armour,$61.13,$61.13,143
-moccasins,Adidas,$52.76,$52.76,13
-high-top sneakers,Adidas,$21.21,$21.21,471
-elevator shoes,Adidas,$29.43,$29.43,428
-court shoes,Adidas,$57.7,$57.7,354
-ski boots,Under Armour,$75.33,$75.33,446
-skate shoes,Adidas,$21.88,$21.88,199
-sneakers,nike,$41.5,$41.5,133
-beach shoes,Adidas,$64.88,$64.88,153
-beach shoes,Under Armour,$10.15,$10.15,411
-stiletto heels,Puma,$45.36,$45.36,444
-ankle boot,Adidas,$59.45,$59.45,227
-dress shoes,Nike,$0.50,$0.50,14
-cleats,nike,$93.55,$93.55,456
-riding boots,Adidas,$69.87,$69.87,178
-ice skates,Puma,$71.31,$71.31,458
-mukluks,New Balance,$43.5,$43.5,158
-riding boots,Adidas,$17.73,$17.73,389
-loafers,Puma,$44.91,$44.91,446
-steel-toe boots,nike,$24.24,$24.24,144
-cycling shoes,Adidas,$91.41,$91.41,115
-wingtip shoes,nike,$55.15,$55.15,84
-track shoes,Adidas,$76.13,$76.13,260
-penny loafers,Nike,$36.38,$36.38,381
-army boots,Puma,$8.27,$8.27,99
-boots,nike,$55.43,$55.43,53
-ankle boot,Adidas,$86.79,$86.79,465
-rain boots,Puma,$60.9,$60.9,359
-mukluks,New Balance,$30.10,$30.10,260
-inline skates,Puma,$82.78,$82.78,118
-rain boots,nike,$82.36,$82.36,9
-high-top sneakers,Puma,$54.28,$54.28,370
-cycling shoes,Puma,$71.88,$71.88,335
-mukluks,New Balance,$79.64,$79.64,482
-Oxfords,Adidas,$6.70,$6.70,39
-sandals,Under Armour,$40.73,$40.73,227
-galoshes,Adidas,$88.85,$88.85,209
-zoris,Adidas,$36.39,$36.39,265
-army boots,New Balance,$32.62,$32.62,153
-deck shoes,Nike,$14.73,$14.73,138
-Oxfords,Puma,$31.23,$31.23,223
-galoshes,Adidas,$27.60,$27.60,491
-slippers,Adidas,$54.38,$54.38,199
-tap shoes,Nike,$6.95,$6.95,294
-saddle shoes,Nike,$32.33,$32.33,136
-hiking boots,Adidas,$12.92,$12.92,49
-heels,Under Armour,$39.94,$39.94,270
-sneakers,Nike,$74.89,$74.89,295
-loafers,Under Armour,$0.54,$0.54,129
-toe shoes,nike,$91.94,$91.94,191
-espadrilles,Adidas,$17.49,$17.49,136
-army boots,New Balance,$52.47,$52.47,377
-tennis shoes,Nike,$51.25,$51.25,191
-jump boots,New Balance,$68.66,$68.66,0
-army boots,nike,$38.83,$38.83,241
-work boots,New Balance,$50.62,$50.62,290
-ballet shoes,New Balance,$14.80,$14.80,272
-espadrilles,New Balance,$32.82,$32.82,15
-skates,New Balance,$79.44,$79.44,235
-roller skates,Under Armour,$81.50,$81.50,96
-shoes,Under Armour,$51.92,$51.92,228
-valenki,Adidas,$81.59,$81.59,355
-espadrilles,Nike,$65.58,$65.58,267
-riding boots,Puma,$44.31,$44.31,324
-flip-flops,nike,$84.24,$84.24,188
-roller skates,Under Armour,$86.2,$86.2,317
-shoes,New Balance,$74.88,$74.88,415
-skates,Puma,$49.52,$49.52,316
-work boots,Under Armour,$77.38,$77.38,403
-tap shoes,Nike,$58.75,$58.75,138
-saddle shoes,New Balance,$36.48,$36.48,177
-elevator shoes,Under Armour,$99.31,$99.31,297
-dress shoes,Adidas,$41.24,$41.24,131
-moccasins,Nike,$79.46,$79.46,321
-penny loafers,Under Armour,$65.75,$65.75,222
-inline skates,Nike,$30.54,$30.54,288
-riding boots,Under Armour,$94.95,$94.95,95
-figure skates,Puma,$91.95,$91.95,104
-sling-backs,Adidas,$79.45,$79.45,238
-stiletto heels,Puma,$72.61,$72.61,441
-sling-backs,Adidas,$4.58,$4.58,83
-heels,Under Armour,$7.39,$7.39,312
-hiking boots,New Balance,$29.87,$29.87,428
-running shoes,nike,$59.76,$59.76,474
-Oxfords,nike,$21.11,$21.11,108
-ankle boot,Adidas,$48.69,$48.69,96
-cleats,Nike,$50.94,$50.94,494
-sling-backs,Under Armour,$93.62,$93.62,243
-boat shoes,Puma,$34.1,$34.1,426
-shoes,Adidas,$72.9,$72.9,337
-kamiks,Under Armour,$73.48,$73.48,387
-ski boots,New Balance,$42.6,$42.6,321
-riding boots,Puma,$73.43,$73.43,293
-open-toe shoes,Puma,$98.79,$98.79,16
-athletic shoes,Nike,$7.68,$7.68,354
-penny loafers,Adidas,$48.36,$48.36,63
-sandals,Under Armour,$48.65,$48.65,231
-inline skates,New Balance,$36.42,$36.42,216
-ski boots,Nike,$71.70,$71.70,458
-beach shoes,Under Armour,$26.16,$26.16,228
-inline skates,New Balance,$77.54,$77.54,87
-tap shoes,New Balance,$24.29,$24.29,461
-stiletto heels,Nike,$39.44,$39.44,401
-jump boots,New Balance,$7.75,$7.75,147
-beach shoes,nike,$50.21,$50.21,377
-ankle boot,Nike,$19.93,$19.93,104
-court shoes,Nike,$17.1,$17.1,212
-wingtip shoes,Adidas,$92.83,$92.83,243
-ankle boot,New Balance,$50.77,$50.77,403
-Oxfords,nike,$84.75,$84.75,154
-saddle shoes,nike,$83.98,$83.98,22
-skate shoes,Puma,$16.16,$16.16,198
-clogs,New Balance,$28.97,$28.97,204
-inline skates,nike,$74.76,$74.76,312
-ski boots,New Balance,$62.1,$62.1,51
-high heels,Under Armour,$89.64,$89.64,110
-ice skates,New Balance,$68.64,$68.64,143
-elevator shoes,nike,$43.89,$43.89,56
-shoes,New Balance,$54.61,$54.61,64
-rain boots,Nike,$56.84,$56.84,83
-slides,Under Armour,$43.23,$43.23,397
-deck shoes,Under Armour,$18.19,$18.19,132
-running shoes,New Balance,$28.3,$28.3,353
-roller skates,Puma,$11.0,$11.0,1
-high heels,Nike,$91.99,$91.99,99
-figure skates,New Balance,$85.21,$85.21,444
-high-top sneakers,Nike,$24.23,$24.23,397
-loafers,Under Armour,$78.49,$78.49,407
-jump boots,Adidas,$96.67,$96.67,277
-mukluks,Puma,$41.73,$41.73,30
-skate shoes,Adidas,$35.80,$35.80,349
-jump boots,Puma,$4.77,$4.77,86
-boots,nike,$63.94,$63.94,137
-track shoes,Puma,$95.78,$95.78,21
-clogs,Puma,$94.9,$94.9,313
-running shoes,nike,$16.11,$16.11,95
-Mary Janes,nike,$56.48,$56.48,322
-tennis shoes,New Balance,$96.81,$96.81,308
-platform shoes,Adidas,$25.49,$25.49,314
-skates,nike,$60.24,$60.24,327
-brogues,Adidas,$20.66,$20.66,392
-bowling shoes,nike,$27.35,$27.35,137
-rollerblades,Puma,$98.86,$98.86,272
-mukluks,New Balance,$6.73,$6.73,240
-wingtip shoes,New Balance,$26.93,$26.93,172
-zoris,Puma,$51.81,$51.81,294
-rain boots,Puma,$52.90,$52.90,213
-roller skates,Adidas,$80.97,$80.97,323
-sneakers,New Balance,$39.22,$39.22,441
-steel-toe boots,Under Armour,$25.95,$25.95,128
-figure skates,New Balance,$18.2,$18.2,318
-mukluks,Puma,$98.40,$98.40,348
-wingtip shoes,Nike,$53.89,$53.89,486
-mukluks,Nike,$78.17,$78.17,55
-running shoes,nike,$93.34,$93.34,183
-steel-toe boots,nike,$32.62,$32.62,190
-wedge shoes,Adidas,$77.2,$77.2,439
-roller skates,New Balance,$19.77,$19.77,304
-tap shoes,New Balance,$83.17,$83.17,427
-saddle shoes,New Balance,$57.36,$57.36,206
-ankle boot,Under Armour,$64.41,$64.41,205
-court shoes,Under Armour,$78.65,$78.65,229
-bowling shoes,Under Armour,$85.3,$85.3,281
-clogs,Adidas,$98.67,$98.67,235
-open-toe shoes,New Balance,$35.11,$35.11,76
-mules,nike,$40.97,$40.97,465
-toe shoes,New Balance,$36.24,$36.24,198
-court shoes,New Balance,$19.65,$19.65,298
-cycling shoes,Adidas,$47.38,$47.38,44
-roller skates,Under Armour,$61.99,$61.99,291
-running shoes,Puma,$17.10,$17.10,334
-elevator shoes,Nike,$67.21,$67.21,212
-climbing shoes,New Balance,$90.97,$90.97,414
-climbing shoes,nike,$1.62,$1.62,67
-toe shoes,New Balance,$44.63,$44.63,445
-ankle boot,nike,$55.48,$55.48,339
-penny loafers,Adidas,$0.68,$0.68,112
-tennis shoes,Puma,$81.19,$81.19,433
-moccasins,New Balance,$65.78,$65.78,28
-ski boots,New Balance,$87.23,$87.23,271
-beach shoes,Puma,$56.92,$56.92,340
-skate shoes,Puma,$45.81,$45.81,353
-kamiks,Nike,$22.52,$22.52,484
-shoes,Adidas,$84.16,$84.16,109
-ice skates,Nike,$87.23,$87.23,486
-sneakers,New Balance,$10.83,$10.83,253
-ballet shoes,Under Armour,$44.42,$44.42,86
-open-toe shoes,Puma,$88.64,$88.64,475
-roller skates,New Balance,$84.84,$84.84,436
-army boots,Adidas,$56.44,$56.44,276
-golf shoes,Nike,$21.42,$21.42,114
-cleats,nike,$13.35,$13.35,92
-mukluks,Under Armour,$0.36,$0.36,180
-cleats,Under Armour,$5.20,$5.20,298
-tennis shoes,Under Armour,$59.11,$59.11,387
-Mary Janes,nike,$70.48,$70.48,460
-heels,Nike,$3.77,$3.77,150
-ski boots,Under Armour,$57.83,$57.83,391
-boat shoes,nike,$88.73,$88.73,437
-riding boots,nike,$88.4,$88.4,162
-brogues,Nike,$59.8,$59.8,419
-swim fins,nike,$51.34,$51.34,21
-cowboy boots,New Balance,$64.0,$64.0,29
-swim fins,New Balance,$87.61,$87.61,244
-ankle boot,Nike,$35.73,$35.73,411
-moccasins,New Balance,$58.77,$58.77,454
-toe shoes,Nike,$49.65,$49.65,386
-zoris,Under Armour,$67.89,$67.89,261
-golf shoes,nike,$48.56,$48.56,494
-brogues,New Balance,$15.99,$15.99,194
-boots,Under Armour,$6.74,$6.74,338
-ankle boot,nike,$15.32,$15.32,258
-brogues,Puma,$8.78,$8.78,217
+name,brand,sku,retail_price,current_price,quantity
+ankle boot,nike,bCe2QwJYr,$53.12,$53.12,279
+ankle boot,Nike,Ybziq6a7up,$55.45,$55.45,263
+ankle boot,Adidas,oKzPli2yQk,$97.56,$97.56,349
+ankle boot,Puma,HG0pQJZ6YD,$45.60,$45.60,364
+ankle boot,Under Armour,qU4sqDmae4,$89.64,$89.64,21
+ankle boot,New Balance,7WM2IGQEQC,$76.64,$76.64,494
+army boots,nike,0v38lNqtDD,$25.45,$25.45,428
+army boots,Nike,j3hr7vmCtC,$64.73,$64.73,361
+army boots,Adidas,rwi1DCx1Ad,$46.32,$46.32,347
+army boots,Puma,qwZi_wkIP9,$67.78,$67.78,313
+army boots,Under Armour,ahx6GlLVfe,$11.86,$11.86,89
+army boots,New Balance,Foyw3MgxrK,$93.81,$93.81,461
+athletic shoes,nike,896O2dhAZk,$98.21,$98.21,371
+athletic shoes,Nike,MZY_LWIIVA,$18.83,$18.83,485
+athletic shoes,Adidas,fVDnYdxeiV,$40.9,$40.9,128
+athletic shoes,Puma,An6Ah8MQms,$59.63,$59.63,232
+athletic shoes,Under Armour,yflkJ9J9qAt,$53.77,$53.77,222
+athletic shoes,New Balance,VK5Xhc0-ERz,$50.23,$50.23,470
+ballet shoes,nike,qgLGCsKFe5U,$49.29,$49.29,193
+ballet shoes,Nike,lkXUpdnSsQQ,$8.89,$8.89,439
+ballet shoes,Adidas,dh0L49onRE-,$70.24,$70.24,302
+ballet shoes,Puma,kA685OuTh5j,$98.29,$98.29,443
+ballet shoes,Under Armour,RyQwSFs7Z7a,$11.53,$11.53,186
+ballet shoes,New Balance,OmkXYPHYIXs,$37.53,$37.53,466
+beach shoes,nike,Lc-n_rlm81F,$20.80,$20.80,139
+beach shoes,Nike,_DzkkJsZ8Gb,$87.94,$87.94,233
+beach shoes,Adidas,s3I8PYvyNw8,$6.11,$6.11,364
+beach shoes,Puma,2-owFm5AfXR,$11.53,$11.53,307
+beach shoes,Under Armour,QYjjbDX_ZvO,$54.99,$54.99,204
+beach shoes,New Balance,0r5tsqCaJYE,$64.21,$64.21,430
+boat shoes,nike,ZVGLiAKb45G,$82.58,$82.58,159
+boat shoes,Nike,O1WICdKCSnO,$80.65,$80.65,379
+boat shoes,Adidas,8c7dXIjwpU6,$94.16,$94.16,397
+boat shoes,Puma,Xi0jZfFS903,$42.94,$42.94,415
+boat shoes,Under Armour,n1IlUeyb-GC,$68.73,$68.73,82
+boat shoes,New Balance,0k9uQh_WBRm,$5.36,$5.36,36
+boots,nike,k0MthADl5CG,$81.17,$81.17,423
+boots,Nike,w9XGR6YlRbF,$8.50,$8.50,7
+boots,Adidas,5jUlLvyNkxH,$90.9,$90.9,43
+boots,Puma,0AFcLRfv8Ye,$2.29,$2.29,18
+boots,Under Armour,TPjGYelgGeB,$32.31,$32.31,467
+boots,New Balance,MUalqfIrfGh,$71.87,$71.87,434
+bowling shoes,nike,dGA6uV0zu6y,$35.14,$35.14,78
+bowling shoes,Nike,zSTDlm6bb1P,$60.2,$60.2,156
+bowling shoes,Adidas,5qqtXAS_YkT,$96.20,$96.20,485
+bowling shoes,Puma,y6iGT_DJY1E,$47.30,$47.30,44
+bowling shoes,Under Armour,19HDnPZg64O,$21.35,$21.35,426
+bowling shoes,New Balance,WLHc1limksl,$62.29,$62.29,251
+brogues,nike,Eu89hl2wIYj,$1.84,$1.84,417
+brogues,Nike,GUjMgrY5fKB,$67.55,$67.55,9
+brogues,Adidas,l3yhbhD9p5L,$27.0,$27.0,116
+brogues,Puma,qXYK6ayCYSz,$37.14,$37.14,310
+brogues,Under Armour,IsqpFvlvbu6,$44.64,$44.64,222
+brogues,New Balance,TEmzZ25s8hR,$58.60,$58.60,91
+cleats,nike,gAfJ6PjNDRk,$78.20,$78.20,269
+cleats,Nike,7t0kD2zLRIF,$58.5,$58.5,32
+cleats,Adidas,JYcpHYjhpe-,$61.67,$61.67,319
+cleats,Puma,dQcf7DpqMXw,$69.71,$69.71,484
+cleats,Under Armour,OLhami64eIf,$53.27,$53.27,303
+cleats,New Balance,oOMoJfQdOrn,$29.77,$29.77,132
+climbing shoes,nike,AewBBx-X4Ov,$7.43,$7.43,78
+climbing shoes,Nike,ocP0gnDCEcK,$74.18,$74.18,439
+climbing shoes,Adidas,spW-HBvoTES,$31.95,$31.95,303
+climbing shoes,Puma,03uOv7Yf2kC,$31.39,$31.39,31
+climbing shoes,Under Armour,HcD7ByOUuiO,$99.16,$99.16,169
+climbing shoes,New Balance,XPomoW7Wn5t,$89.92,$89.92,378
+clogs,nike,oHxUbCthjTJ,$92.25,$92.25,64
+clogs,Nike,7kgmtJW9-yO,$43.43,$43.43,221
+clogs,Adidas,14r_ooymn6K,$44.61,$44.61,292
+clogs,Puma,1_PcYv3UvMG,$5.58,$5.58,372
+clogs,Under Armour,fzyD8VZdkmU,$21.81,$21.81,25
+clogs,New Balance,uJQN3qhNeky,$48.69,$48.69,271
+court shoes,nike,hsNg2eLKt6t,$1.31,$1.31,33
+court shoes,Nike,yGPXOO1_jex,$13.62,$13.62,431
+court shoes,Adidas,1i6F-oHHrDH,$25.42,$25.42,47
+court shoes,Puma,FYKt5XClvXR,$97.83,$97.83,145
+court shoes,Under Armour,qqnMY8SZtPG,$8.41,$8.41,78
+court shoes,New Balance,il8130CDAf7,$69.14,$69.14,75
+cowboy boots,nike,jtZpu9QYqm_,$17.95,$17.95,213
+cowboy boots,Nike,QjEpq7s1a5I,$67.28,$67.28,373
+cowboy boots,Adidas,q5jJbLoII8_,$18.35,$18.35,240
+cowboy boots,Puma,iBgEQInVyzI,$7.89,$7.89,468
+cowboy boots,Under Armour,Fla_K_u7mmn,$26.94,$26.94,204
+cowboy boots,New Balance,GSkfucCgCUe,$66.24,$66.24,454
+cycling shoes,nike,8MD7wY8WeKY,$57.55,$57.55,309
+cycling shoes,Nike,nXNvlHOTSLX,$1.46,$1.46,427
+cycling shoes,Adidas,7RFY6bKvpaQ,$17.32,$17.32,460
+cycling shoes,Puma,gIxq2i8s02K,$60.78,$60.78,187
+cycling shoes,Under Armour,mqmVVKVSIIa,$91.94,$91.94,252
+cycling shoes,New Balance,Zuo8_9dqlA1,$90.45,$90.45,158
+deck shoes,nike,Wq1ibynE-Yk,$9.25,$9.25,92
+deck shoes,Nike,5RUt2v9rcsC,$46.71,$46.71,178
+deck shoes,Adidas,unPtwp_1Y44,$32.14,$32.14,167
+deck shoes,Puma,5-cBGpfQ0VZ,$61.27,$61.27,413
+deck shoes,Under Armour,hKQNuIpRG2l,$92.91,$92.91,326
+deck shoes,New Balance,-cdC5-YOZCt,$9.52,$9.52,206
+dress shoes,nike,7aMUPjIxnG_,$64.16,$64.16,134
+dress shoes,Nike,IDmyyU6g5L3,$36.30,$36.30,89
+dress shoes,Adidas,oBwl7N09kru,$57.53,$57.53,314
+dress shoes,Puma,DNAe0cVqTnO,$12.93,$12.93,409
+dress shoes,Under Armour,VNWrqut6Kze,$29.36,$29.36,102
+dress shoes,New Balance,-Pdc020h2_1,$4.59,$4.59,148
+elevator shoes,nike,AxakmTryuv3,$34.36,$34.36,186
+elevator shoes,Nike,O6cxnoZpurv,$6.76,$6.76,409
+elevator shoes,Adidas,EIxqEEW7DhY,$70.27,$70.27,457
+elevator shoes,Puma,UrGz_ODh7r2,$80.90,$80.90,260
+elevator shoes,Under Armour,IuPYpMwrKd4,$21.28,$21.28,65
+elevator shoes,New Balance,h7IAqeQRFSh,$3.50,$3.50,459
+espadrilles,nike,xAtjuN8q3XR,$54.91,$54.91,302
+espadrilles,Nike,khlibROVyKS,$68.28,$68.28,225
+espadrilles,Adidas,ZJl1cP-C7I7,$77.4,$77.4,221
+espadrilles,Puma,7KFt52oXUX5,$46.72,$46.72,386
+espadrilles,Under Armour,vNxGqyjgaEX,$40.7,$40.7,198
+espadrilles,New Balance,_To3r5G-UC3,$15.98,$15.98,407
+figure skates,nike,gGGHeivJwm_,$20.95,$20.95,140
+figure skates,Nike,KVN6CuAgxu9,$53.79,$53.79,444
+figure skates,Adidas,Wgb5SK7pPUL,$80.7,$80.7,6
+figure skates,Puma,-NQ3AhVucoX,$66.74,$66.74,364
+figure skates,Under Armour,QnLRf-loej8,$55.33,$55.33,395
+figure skates,New Balance,Ht_nKLEHiDC,$42.40,$42.40,145
+flip-flops,nike,tzqwnwtsMJw,$25.55,$25.55,265
+flip-flops,Nike,XSi1aogG4PI,$42.67,$42.67,487
+flip-flops,Adidas,7FM0s7IMYZO,$72.45,$72.45,200
+flip-flops,Puma,f5kU1jA97w0,$2.95,$2.95,274
+flip-flops,Under Armour,fDLy8kiYylz,$93.77,$93.77,382
+flip-flops,New Balance,as5S7irsm3u,$61.64,$61.64,235
+galoshes,nike,9Wp6l-QvEFZ,$57.27,$57.27,253
+galoshes,Nike,k2Qbw3iFyXH,$70.88,$70.88,43
+galoshes,Adidas,14f_BoGpO-X,$17.16,$17.16,307
+galoshes,Puma,5MTmc4jAHbd,$41.61,$41.61,217
+galoshes,Under Armour,wr45tXvvpMH,$85.92,$85.92,307
+galoshes,New Balance,9kLfR1659Z9,$15.57,$15.57,430
+golf shoes,nike,uvmgwG8PcrW,$45.33,$45.33,163
+golf shoes,Nike,hti3Xm_PvAh,$84.23,$84.23,405
+golf shoes,Adidas,DVWB9q66oCY,$95.21,$95.21,216
+golf shoes,Puma,PWxVka0l97d,$78.19,$78.19,126
+golf shoes,Under Armour,5iAaq0f4vLS,$6.35,$6.35,175
+golf shoes,New Balance,wat_Fhpslkp,$21.3,$21.3,164
+gumboots,nike,QO6EbV7Lhav,$46.85,$46.85,439
+gumboots,Nike,m--E_H6AM13,$41.77,$41.77,114
+gumboots,Adidas,bc_SmT3I8Mi,$14.24,$14.24,19
+gumboots,Puma,cfJ2b6uAOmF,$15.84,$15.84,494
+gumboots,Under Armour,AoeImkBTXz0,$20.69,$20.69,167
+gumboots,New Balance,wR0FELEqf3W,$3.78,$3.78,490
+heels,nike,pX1s4vl91cE,$54.72,$54.72,239
+heels,Nike,Opejuzdq9ud,$7.82,$7.82,27
+heels,Adidas,-yv8eeD_DSJ,$97.26,$97.26,324
+heels,Puma,dbcs54iR2kN,$99.20,$99.20,334
+heels,Under Armour,1hqZHdbrmpA,$20.37,$20.37,44
+heels,New Balance,ruAxJ6qh4lb,$44.2,$44.2,327
+high heels,nike,Dw5s_Wxw2B_,$56.83,$56.83,228
+high heels,Nike,P92GNLzNt3x,$44.97,$44.97,457
+high heels,Adidas,wsEkeleyrgD,$27.94,$27.94,58
+high heels,Puma,Tz0M0-pb5z-,$72.49,$72.49,338
+high heels,Under Armour,vx5lR1J7opY,$65.2,$65.2,294
+high heels,New Balance,blr7y902qhf,$62.55,$62.55,241
+high-top sneakers,nike,ueV8hW-Fk13,$87.54,$87.54,308
+high-top sneakers,Nike,NLAvLgu1HGn,$37.8,$37.8,450
+high-top sneakers,Adidas,xAmMqApMX6-,$32.54,$32.54,379
+high-top sneakers,Puma,VDILZClUNmP,$1.52,$1.52,185
+high-top sneakers,Under Armour,RN5Mq9Hf9lo,$71.61,$71.61,102
+high-top sneakers,New Balance,Eu06eMNt3xa,$39.82,$39.82,206
+hiking boots,nike,OCZlhFWmK9A,$72.76,$72.76,278
+hiking boots,Nike,BN7Wl9gf2UO,$6.36,$6.36,343
+hiking boots,Adidas,2JIoOTxe9Jp,$44.86,$44.86,366
+hiking boots,Puma,6syjx3TT4VB,$0.27,$0.27,370
+hiking boots,Under Armour,gPCLzzznxKZ,$15.41,$15.41,164
+hiking boots,New Balance,ekzxceSU0bD,$5.39,$5.39,73
+ice skates,nike,pHS7_o0hWYD,$85.90,$85.90,192
+ice skates,Nike,5cXPxOodYLw,$9.66,$9.66,88
+ice skates,Adidas,6j577Hrp246,$70.48,$70.48,50
+ice skates,Puma,utuy6cchG2O,$95.73,$95.73,476
+ice skates,Under Armour,FXcDbwOSgN6,$3.14,$3.14,304
+ice skates,New Balance,Xl3AQCRudOW,$37.38,$37.38,497
+inline skates,nike,VJtg0ZHHGXf,$45.53,$45.53,104
+inline skates,Nike,K-9j5pDUA5v,$57.40,$57.40,479
+inline skates,Adidas,X_0rhL205T-,$23.46,$23.46,300
+inline skates,Puma,WyMrt0U1MMJ,$18.68,$18.68,121
+inline skates,Under Armour,CpYO0IwArUu,$2.20,$2.20,170
+inline skates,New Balance,6bQfn-aplpf,$64.96,$64.96,78
+jackboots,nike,bn_caXaKxYA,$47.46,$47.46,110
+jackboots,Nike,bqREVI9OHPK,$26.36,$26.36,243
+jackboots,Adidas,GPrU8Wca9Gc,$39.52,$39.52,399
+jackboots,Puma,GOhYK-xdwNJ,$34.1,$34.1,398
+jackboots,Under Armour,H5VDf5_1Z0V,$56.97,$56.97,259
+jackboots,New Balance,OkERXjS38Zx,$85.60,$85.60,291
+jump boots,nike,WwgKvcl9d9x,$3.74,$3.74,377
+jump boots,Nike,WUze3s_nRar,$83.42,$83.42,365
+jump boots,Adidas,J6KH_OW99h2,$79.63,$79.63,288
+jump boots,Puma,q6R0PSMwfeY,$78.88,$78.88,142
+jump boots,Under Armour,tKEpFjZtihl,$28.23,$28.23,356
+jump boots,New Balance,njh84yKypqf,$43.40,$43.40,158
+kamiks,nike,oP3XM4a-Off,$0.95,$0.95,250
+kamiks,Nike,NP5ZvBAeC69,$18.1,$18.1,474
+kamiks,Adidas,HqjM_BRuMf0,$5.56,$5.56,136
+kamiks,Puma,2xRtTFcqnYT,$10.11,$10.11,416
+kamiks,Under Armour,dEr2D9Dv3lC,$5.77,$5.77,197
+kamiks,New Balance,JeejlCu4FOB,$87.87,$87.87,155
+loafers,nike,ABpXvAJ5p_E,$45.77,$45.77,68
+loafers,Nike,N9Bnb_LajQC,$18.77,$18.77,468
+loafers,Adidas,miKcLw8QFHz,$75.98,$75.98,296
+loafers,Puma,OYOc7cjrJFG,$98.6,$98.6,135
+loafers,Under Armour,zKd9SmqwHnE,$5.32,$5.32,323
+loafers,New Balance,jRhZE-og_fd,$73.8,$73.8,402
+Mary Janes,nike,IS5xhaNbT5T,$98.9,$98.9,15
+Mary Janes,Nike,cMqrJBPrSkZ,$80.17,$80.17,417
+Mary Janes,Adidas,dj0gBqw1rpi,$46.70,$46.70,357
+Mary Janes,Puma,FN5l-6BIunA,$21.40,$21.40,232
+Mary Janes,Under Armour,l_nVCy9RHin,$75.88,$75.88,183
+Mary Janes,New Balance,yN_5qdYNuCr,$25.9,$25.9,322
+moccasins,nike,Y6QE2ugaemg,$29.41,$29.41,175
+moccasins,Nike,Nzz6C3nrVlP,$40.0,$40.0,334
+moccasins,Adidas,ihTHDTavKX6,$23.1,$23.1,63
+moccasins,Puma,bWPEgOAiTSU,$99.94,$99.94,41
+moccasins,Under Armour,ilEg8isdg9K,$89.71,$89.71,154
+moccasins,New Balance,FzNfVde7jlt,$73.72,$73.72,96
+mukluks,nike,Y_Bo-pDo2zT,$26.45,$26.45,142
+mukluks,Nike,Xc4SNnFczdA,$57.11,$57.11,440
+mukluks,Adidas,oCdqGx3xXYK,$24.13,$24.13,373
+mukluks,Puma,R5G1coM-_ID,$62.95,$62.95,372
+mukluks,Under Armour,miN9eVhfJDX,$2.83,$2.83,171
+mukluks,New Balance,1hfNyuQh730,$94.66,$94.66,188
+mules,nike,JMH-y9thvUv,$21.47,$21.47,212
+mules,Nike,DUU6frBh_BO,$48.68,$48.68,422
+mules,Adidas,xdqPD40MexS,$5.16,$5.16,448
+mules,Puma,gy1ubb_7thu,$80.40,$80.40,450
+mules,Under Armour,5fnex-CVmlY,$43.56,$43.56,368
+mules,New Balance,NNsNRRAY9iX,$14.5,$14.5,452
+open-toe shoes,nike,Fqj9Tc5et1e,$26.84,$26.84,291
+open-toe shoes,Nike,lVzlkSWoFtM,$27.85,$27.85,306
+open-toe shoes,Adidas,Weu4ntSksVV,$59.51,$59.51,156
+open-toe shoes,Puma,5w62iQkgq_3,$86.98,$86.98,155
+open-toe shoes,Under Armour,RV-ji0fzt1S,$3.8,$3.8,127
+open-toe shoes,New Balance,AYs_xt1Hl2Y,$54.39,$54.39,414
+Oxfords,nike,vy5hfIec6HY,$19.91,$19.91,305
+Oxfords,Nike,4bkVUMnMeiA,$85.90,$85.90,122
+Oxfords,Adidas,90sS1qrpKNm,$11.18,$11.18,5
+Oxfords,Puma,X2XXfq8W2VU,$77.73,$77.73,216
+Oxfords,Under Armour,W_S6WSkoIxj,$12.33,$12.33,184
+Oxfords,New Balance,eS3i7zNaTzb,$90.28,$90.28,223
+penny loafers,nike,N5mjRq20GCB,$28.60,$28.60,243
+penny loafers,Nike,JvihAc_R1H2,$48.20,$48.20,234
+penny loafers,Adidas,8D6UvJS0H3p,$64.46,$64.46,302
+penny loafers,Puma,LmRJAhOmoAa,$77.49,$77.49,1
+penny loafers,Under Armour,n8S5Mgvgg85,$17.67,$17.67,432
+penny loafers,New Balance,2QdxWHHcePb,$3.66,$3.66,467
+platform shoes,nike,7O-fyRn-aH7,$9.87,$9.87,80
+platform shoes,Nike,5K3GdTjR_pO,$6.66,$6.66,483
+platform shoes,Adidas,15aVdF0NYt5,$26.0,$26.0,184
+platform shoes,Puma,9ZuKSFXXmYw,$30.15,$30.15,401
+platform shoes,Under Armour,dKfiCU4fH0O,$68.84,$68.84,45
+platform shoes,New Balance,EZorMWxxsRs,$33.13,$33.13,402
+pointe shoes,nike,9qF5yyuGdO8,$54.22,$54.22,238
+pointe shoes,Nike,0nNL3Kk0u_F,$27.52,$27.52,24
+pointe shoes,Adidas,i-slObmbfL2,$27.4,$27.4,290
+pointe shoes,Puma,2_8rq-b1Dyv,$79.13,$79.13,302
+pointe shoes,Under Armour,7ZO5AqBJR2dy,$25.80,$25.80,440
+pointe shoes,New Balance,r65f0axASNTM,$22.23,$22.23,112
+pumps,nike,QrxCCUroh8cG,$4.23,$4.23,237
+pumps,Nike,1HjLJallebqM,$19.79,$19.79,226
+pumps,Adidas,unxzpvUGKEHY,$98.83,$98.83,184
+pumps,Puma,Sntosu-keEZG,$70.16,$70.16,429
+pumps,Under Armour,G1NYDqphNpUy,$78.15,$78.15,390
+pumps,New Balance,yVDywC5i0TXA,$23.74,$23.74,264
+rain boots,nike,EwEO0uw9qilF,$99.12,$99.12,180
+rain boots,Nike,vlliLVJBcxcV,$39.63,$39.63,174
+rain boots,Adidas,rR6ljBEuxN2d,$29.25,$29.25,482
+rain boots,Puma,YzGHGntKx9MX,$26.53,$26.53,42
+rain boots,Under Armour,U9PpyzMdj5rA,$3.59,$3.59,180
+rain boots,New Balance,Wydq7DTLt4zR,$62.15,$62.15,119
+riding boots,nike,EsKl4FWX3dWr,$46.36,$46.36,198
+riding boots,Nike,5lhSUO22utgu,$60.86,$60.86,34
+riding boots,Adidas,UFoaMPpq2vDd,$61.40,$61.40,144
+riding boots,Puma,EJE2i_Z8rKS5,$34.53,$34.53,21
+riding boots,Under Armour,Ysj1_iFDS0in,$10.35,$10.35,149
+riding boots,New Balance,coV7CiJgCCvo,$50.27,$50.27,38
+roller skates,nike,wuIviTr9USle,$29.98,$29.98,30
+roller skates,Nike,W2x_7_006RYw,$55.53,$55.53,420
+roller skates,Adidas,T9kIdteo8j-8,$30.56,$30.56,428
+roller skates,Puma,31YVu45K_Uzk,$82.88,$82.88,136
+roller skates,Under Armour,KnmZcuS4RBpQ,$43.86,$43.86,13
+roller skates,New Balance,5_bIiVVW-ShN,$24.61,$24.61,98
+rollerblades,nike,RdmM728tNGG8,$70.61,$70.61,334
+rollerblades,Nike,8TLwFnBpzw-H,$71.29,$71.29,387
+rollerblades,Adidas,eh5ByZPKy3Ot,$85.35,$85.35,311
+rollerblades,Puma,WCG5chf1YJSQ,$57.63,$57.63,52
+rollerblades,Under Armour,9yT1QaShsS4r,$48.17,$48.17,46
+rollerblades,New Balance,M_uRgO7BQ87D,$4.37,$4.37,160
+running shoes,nike,Qw9BBSI8WRLc,$88.12,$88.12,111
+running shoes,Nike,2-0k9fY6UAwE,$29.47,$29.47,400
+running shoes,Adidas,E-jUiaw8lqFW,$44.65,$44.65,412
+running shoes,Puma,-LwrkoN3USyD,$83.67,$83.67,43
+running shoes,Under Armour,ueacDFRVlAIg,$60.72,$60.72,111
+running shoes,New Balance,VObZwQw0sPCn,$18.52,$18.52,64
+saddle shoes,nike,OD4bIb-Peae7,$82.62,$82.62,455
+saddle shoes,Nike,xTBeZ7MMYnzf,$60.54,$60.54,111
+saddle shoes,Adidas,DblgmKpEw0NU,$0.77,$0.77,205
+saddle shoes,Puma,17YJL_NcVAdV,$10.83,$10.83,238
+saddle shoes,Under Armour,tqd0dEUBI1pr,$8.76,$8.76,194
+saddle shoes,New Balance,28fQqvkbVzVI,$54.49,$54.49,139
+sandals,nike,InlDBmPQU6Kk,$7.75,$7.75,448
+sandals,Nike,Urdy9h1g0TAL,$12.36,$12.36,455
+sandals,Adidas,k-aufZZqilN3,$75.81,$75.81,209
+sandals,Puma,IKoyvgWsjVBn,$55.41,$55.41,162
+sandals,Under Armour,yVm6vy6o2oH0,$4.37,$4.37,487
+sandals,New Balance,Kj9YGA-eJBpU,$98.14,$98.14,120
+shoes,nike,FcCDqvlD_ImK,$94.24,$94.24,1
+shoes,Nike,9aAFCZouEZdc,$65.45,$65.45,57
+shoes,Adidas,4Ta6C69Kgl4n,$2.77,$2.77,459
+shoes,Puma,Jni_lDPc-8M8,$68.94,$68.94,436
+shoes,Under Armour,soNimfC2qjBu,$23.5,$23.5,238
+shoes,New Balance,U87ND_UHTkKU,$31.37,$31.37,339
+skate shoes,nike,-D1JUaKfvHRi,$45.60,$45.60,212
+skate shoes,Nike,JmwifA1FgIiA,$34.39,$34.39,158
+skate shoes,Adidas,UgMaVQQjU5_A,$68.28,$68.28,300
+skate shoes,Puma,O0WFYsuo6_YH,$11.84,$11.84,245
+skate shoes,Under Armour,6VNscJBAMTtY,$66.59,$66.59,380
+skate shoes,New Balance,0TW4R7rQrNiO,$32.90,$32.90,144
+skates,nike,sEfYz6g-71QU,$87.89,$87.89,394
+skates,Nike,hKCDbAzCDX4-,$75.43,$75.43,20
+skates,Adidas,9KRDQV-Qvc2L,$89.37,$89.37,28
+skates,Puma,w2vhvmDyKiqf,$5.70,$5.70,167
+skates,Under Armour,F_0oG_0YORBh,$57.72,$57.72,428
+skates,New Balance,MDkhXdqjsFTk,$74.8,$74.8,174
+ski boots,nike,2jUD61_5RSby,$89.5,$89.5,201
+ski boots,Nike,SSaJl2lyBRrE,$44.58,$44.58,436
+ski boots,Adidas,hAiVp28FV9sA,$85.6,$85.6,495
+ski boots,Puma,MF0P8v0tWxiU,$39.72,$39.72,315
+ski boots,Under Armour,_4rTRrWTCeTz,$76.87,$76.87,421
+ski boots,New Balance,q-oec7pxZxdt,$26.95,$26.95,361
+slides,nike,-ESnnXyMqTpQ,$44.4,$44.4,57
+slides,Nike,ETwb7AUgb4Wv,$12.65,$12.65,158
+slides,Adidas,EaOBJMUp9NRm,$9.43,$9.43,235
+slides,Puma,XVAj6nqc2Dpl,$33.1,$33.1,487
+slides,Under Armour,QUFrsJGW40XZ,$64.66,$64.66,341
+slides,New Balance,t16E2RiLDDIx,$71.58,$71.58,273
+sling-backs,nike,d5g1eNfHLqyu,$95.9,$95.9,267
+sling-backs,Nike,APEMTPckjj8Z,$10.26,$10.26,76
+sling-backs,Adidas,gFHEnmLxiW9m,$44.31,$44.31,180
+sling-backs,Puma,k3ak5F1t7evj,$71.74,$71.74,493
+sling-backs,Under Armour,XDGCWQM0hrIS,$61.35,$61.35,225
+sling-backs,New Balance,Ksn_T4UoPHRN,$76.98,$76.98,43
+slippers,nike,vkC6yA-n2P28,$68.32,$68.32,108
+slippers,Nike,A5PzLmq3zKLm,$45.81,$45.81,380
+slippers,Adidas,aE9ZSKPkg06F,$91.18,$91.18,397
+slippers,Puma,vbvJPBM4XhgS,$20.31,$20.31,173
+slippers,Under Armour,c_CPs1TD6y2j,$1.83,$1.83,391
+slippers,New Balance,o1L9nrwFaIM_,$1.16,$1.16,73
+sneakers,nike,e65_j2FZKQ6b,$9.27,$9.27,414
+sneakers,Nike,aId5Mlim94_l,$10.94,$10.94,451
+sneakers,Adidas,CBoy3VVinWUd,$75.26,$75.26,134
+sneakers,Puma,iXafMcctCJr9,$63.71,$63.71,240
+sneakers,Under Armour,5e0amxERgO7v,$45.25,$45.25,452
+sneakers,New Balance,Tw6L0eAbHQ3n,$63.20,$63.20,189
+steel-toe boots,nike,FsWzhHQBkMKf,$29.1,$29.1,416
+steel-toe boots,Nike,XIozpAp1o-98,$26.11,$26.11,395
+steel-toe boots,Adidas,Zu4nDugYCVe7,$96.31,$96.31,67
+steel-toe boots,Puma,rBptHGv4a5qP,$24.35,$24.35,176
+steel-toe boots,Under Armour,s-BnwIs5TZQF,$91.75,$91.75,410
+steel-toe boots,New Balance,BZMZT9006mdK,$64.23,$64.23,63
+stiletto heels,nike,qnwsDl_heJEe,$75.72,$75.72,448
+stiletto heels,Nike,uLye2M9VQsh0,$97.45,$97.45,241
+stiletto heels,Adidas,IyIWdB2CxlRU,$47.68,$47.68,70
+stiletto heels,Puma,lZz4rjygTXip,$12.30,$12.30,368
+stiletto heels,Under Armour,pmicHO6jWIrM,$71.97,$71.97,225
+stiletto heels,New Balance,hhwdXXRDFC6v,$47.7,$47.7,190
+swim fins,nike,CSkfPTwGK2E8,$44.45,$44.45,460
+swim fins,Nike,qxgz3PWM05Us,$72.29,$72.29,397
+swim fins,Adidas,kjYK_owuHdNf,$44.1,$44.1,259
+swim fins,Puma,uBYKKXYUdmKd,$91.88,$91.88,167
+swim fins,Under Armour,ZU7kZEaS1ubc,$58.96,$58.96,432
+swim fins,New Balance,OB47-L7OX9A5,$58.31,$58.31,258
+tap shoes,nike,mwQrzMWVmFmu,$7.88,$7.88,444
+tap shoes,Nike,RngcRqFN69GF,$55.39,$55.39,428
+tap shoes,Adidas,WWQiHrVExj7X,$25.29,$25.29,465
+tap shoes,Puma,G0FdAgRpuJNg,$91.77,$91.77,153
+tap shoes,Under Armour,J81goY1GAMh7,$76.55,$76.55,265
+tap shoes,New Balance,11zewFhw7x6l,$29.75,$29.75,263
+tennis shoes,nike,NhBOy-NShM_b,$8.32,$8.32,28
+tennis shoes,Nike,48otvdS9IYcI,$49.67,$49.67,345
+tennis shoes,Adidas,C0isQptGbXq_,$65.95,$65.95,479
+tennis shoes,Puma,V_P4hiBS5avx,$16.39,$16.39,76
+tennis shoes,Under Armour,UOCB26tAcTlZ,$14.33,$14.33,153
+tennis shoes,New Balance,iL5-Ac_F4_E3,$53.91,$53.91,312
+toe shoes,nike,_OSqOGYfkP_L,$23.34,$23.34,181
+toe shoes,Nike,GrtK9hlrWvay,$88.18,$88.18,455
+toe shoes,Adidas,_w0L45BZ4OeR,$88.94,$88.94,290
+toe shoes,Puma,QM3d5zYfAkxu,$92.50,$92.50,126
+toe shoes,Under Armour,aAqAVDyC_VLl,$82.86,$82.86,196
+toe shoes,New Balance,D1weaFYB8N_c,$37.35,$37.35,262
+track shoes,nike,Og5-5jyfEHIk,$77.31,$77.31,316
+track shoes,Nike,lm5Od6br9uKH,$77.97,$77.97,430
+track shoes,Adidas,SlkIeNnZDerh,$44.8,$44.8,80
+track shoes,Puma,Oc1DYbCiEnXc,$50.7,$50.7,397
+track shoes,Under Armour,St_QNqDpXddm,$14.39,$14.39,124
+track shoes,New Balance,Eh6WY-5RXAk_,$32.66,$32.66,167
+valenki,nike,42E18XlqcyRo,$80.73,$80.73,172
+valenki,Nike,lVPaHpB8NTo-,$50.91,$50.91,68
+valenki,Adidas,JQDs5Zts0hzw,$94.34,$94.34,92
+valenki,Puma,IvBkC53RmOJE,$11.97,$11.97,154
+valenki,Under Armour,aDunJZAldMEm,$89.2,$89.2,310
+valenki,New Balance,hSuBA0V4F6zc,$31.26,$31.26,355
+waders,nike,SHytPt5j5iVc,$9.20,$9.20,379
+waders,Nike,HC0O0icyLv0i,$86.15,$86.15,165
+waders,Adidas,U0oiG6wfVjWW,$37.88,$37.88,181
+waders,Puma,uCUKeJD5D690,$97.6,$97.6,239
+waders,Under Armour,lVoYy1LmwerW,$87.87,$87.87,248
+waders,New Balance,sg9R76-9fdQU,$26.2,$26.2,338
+wedge shoes,nike,AK_9er_gxqY9,$91.12,$91.12,498
+wedge shoes,Nike,YWpvCW6-5KTk,$32.59,$32.59,107
+wedge shoes,Adidas,7LnW9Pzw8u8p,$82.49,$82.49,484
+wedge shoes,Puma,BPshsczHk59R,$75.68,$75.68,267
+wedge shoes,Under Armour,fPo2Gjtj328R,$1.6,$1.6,34
+wedge shoes,New Balance,XdDo8HoB6rxI,$4.13,$4.13,210
+Wellington boots,nike,Jomcxz0bL3fv,$32.63,$32.63,428
+Wellington boots,Nike,gkYouUELUoKy,$15.87,$15.87,175
+Wellington boots,Adidas,Xwjf5bb9P7yH,$62.95,$62.95,91
+Wellington boots,Puma,AyXBqFZK-hMC,$13.58,$13.58,152
+Wellington boots,Under Armour,fPKtjrUBSR4K,$13.12,$13.12,362
+Wellington boots,New Balance,l5WV_n9ebPQw,$81.6,$81.6,164
+wingtip shoes,nike,z1Vxo9G6D3Vz,$85.10,$85.10,36
+wingtip shoes,Nike,vh1ZYQ4qHJ3f,$47.42,$47.42,499
+wingtip shoes,Adidas,v7c4uLEN2aaE,$69.71,$69.71,422
+wingtip shoes,Puma,NwvJvzcZe7bm,$30.38,$30.38,128
+wingtip shoes,Under Armour,t2FEKDM6BJa4,$6.40,$6.40,395
+wingtip shoes,New Balance,SjZdkY32eBMC,$58.8,$58.8,386
+work boots,nike,KHeP5TdfxpAa,$96.14,$96.14,206
+work boots,Nike,H8Fp8L5HixK6,$93.20,$93.20,467
+work boots,Adidas,HP-q6FGo9_9H,$95.51,$95.51,307
+work boots,Puma,wuoZyh-km0cg,$71.54,$71.54,32
+work boots,Under Armour,lbs6x2zzJAec,$3.62,$3.62,33
+work boots,New Balance,E2ymzReu63pM,$18.42,$18.42,37
+zoris,nike,_g-6cjvlNQlU,$27.70,$27.70,29
+zoris,Nike,2S-iNk8acs-9,$75.96,$75.96,29
+zoris,Adidas,B8l1GzNT1pzw,$3.93,$3.93,169
+zoris,Puma,OHDInsGVyGPr,$23.91,$23.91,371
+zoris,Under Armour,oThjvi6IC-fO,$3.43,$3.43,389
+zoris,New Balance,wBALmPJ-JlD0,$55.67,$55.67,102

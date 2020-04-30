@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/techintern-school/ise-projects#readme",
   "dependencies": {
-    "csv-write-stream": "^2.0.0"
+    "csv-write-stream": "^2.0.0",
+    "shortid": "^2.2.15"
   }
 }
