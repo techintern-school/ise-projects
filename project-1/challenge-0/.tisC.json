@@ -1,5 +1,5 @@
 {
-    "projectID": "TODO", 
-    "challengeID": "TODO", 
-    "exec": "node helloworld.js"
+  "projectID": "TODO",
+  "challengeID": "TODO",
+  "exec": "node check_solution.js"
 }
