@@ -1,6 +1,8 @@
 {
-    "projectID": "TODO", 
-    "challengeID": "TODO", 
-    "exec": "node index.js", 
-    "execArgs": ["githubID"]
+    "projectID": "M_42tuQZ5",
+    "challengeID": "zhLKEBKuDk",
+    "exec": "node index.js",
+    "execArgs": [
+        "githubID"
+    ]
 }
