@@ -1,7 +1,9 @@
 #!/usr/bin/env node
+
 const utils = require("../../utils.js");
 const p1 = require("../p1.js");
-
+//const { execSync } = require("child_process");
+//const result = execSync("python solution.py --brand nike --discount 20");
 utils
   .getTwoCSVFiles(
     `${__dirname}/product_catalog_updated.csv`,

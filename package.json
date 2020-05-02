@@ -5,7 +5,7 @@
   "main": "utils.js",
   "scripts": {
     "setup": "tis setup",
-    "submit": "tis run",
+    "submit": "tis run $INIT_CWD",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -24,6 +24,6 @@
     "shortid": "^2.2.15"
   },
   "devDependencies": {
-    "tis-cli": "^1.0.0"
+    "tis-cli": "^1.0.1"
   }
 }
