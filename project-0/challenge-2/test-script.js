@@ -4,7 +4,7 @@ const dircompare = require("dir-compare");
 
 // delete the source directory
 
-execSync(`rm -f ${__dirname}/dest-folder/*`);
+execSync(`rm -f ${__dirname}/backup-products/*`);
 execSync("./copy-files.sh");
 
 const options = {
@@ -13,8 +13,8 @@ const options = {
   includeFilter: "file*",
 };
 const res = dircompare.compareSync(
-  `${__dirname}/source-folder`,
-  `${__dirname}/dest-folder`,
+  `${__dirname}/backup-products`,
+  `${__dirname}/products`,
   options
 );
 
